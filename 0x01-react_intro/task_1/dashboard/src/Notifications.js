@@ -1,12 +1,12 @@
 import React from "react";
-import "./Notification.css";
+import "./Notifications.css";
 
 function Notifications() {
   return (
-    <div className="Notofoctions">
+    <div className="Notifications">
       <p>Here is the list of notifications</p>
-    </div> 
-  );  
+    </div>
+  );
 }
 
 export default Notifications;

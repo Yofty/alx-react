@@ -1,6 +1,6 @@
 import holbertonlogo from './holbertonlogo.jpg';
 import './App.css';
-import { getFullYear, getFooterCopy } from "./utils";
+import { getFullYear, getFooterCopy } from './utils.js'
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
         <p>Login to access the full dashboard</p>
       </div>
       <div className="App-footer">
-	Copyright {getFullYear()} - {getFooterCopy()}
+        Copyright {getFullYear()} - {getFooterCopy()}
       </div>
     </div>
   );
