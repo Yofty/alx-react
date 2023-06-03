@@ -2,16 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\0x01-react_intro",
-    "\\0x01-react_intro\\task_0\\dashboard",
-    "\\0x01-react_intro\\task_0\\dashboard\\src",
-    "\\0x01-react_intro\\task_3\\dashboard",
-    "\\0x01-react_intro\\task_3\\dashboard\\src",
-    "\\0x01-react_intro\\task_4",
     "\\0x01-react_intro\\task_4\\dashboard",
     "\\0x01-react_intro\\task_5",
     "\\0x01-react_intro\\task_5\\dashboard",
-    "\\0x01-react_intro\\task_5\\dashboard\\dist"
+    "\\0x01-react_intro\\task_5\\dashboard\\config",
+    "\\0x01-react_intro\\task_5\\dashboard\\src",
+    "\\0x01-react_intro\\task_5\\dashboard\\src\\utils"
   ],
-  "SelectedNode": "\\0x01-react_intro\\task_5\\dashboard\\dist\\main.js",
+  "SelectedNode": "\\0x01-react_intro\\task_5\\dashboard\\src\\utils\\utils.js",
   "PreviewInSolutionExplorer": false
 }
