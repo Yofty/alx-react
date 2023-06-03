@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\0x01-react_intro",
-    "\\0x01-react_intro\\task_0",
-    "\\0x01-react_intro\\task_0\\dashboard",
-    "\\0x01-react_intro\\task_0\\dashboard\\src"
+    "\\0x01-react_intro\\task_2",
+    "\\0x01-react_intro\\task_2\\dashboard",
+    "\\0x01-react_intro\\task_2\\dashboard\\public",
+    "\\0x01-react_intro\\task_2\\dashboard\\src"
   ],
-  "SelectedNode": "\\0x01-react_intro\\task_0\\dashboard\\src\\App.js",
   "PreviewInSolutionExplorer": false
 }
