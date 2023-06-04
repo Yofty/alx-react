@@ -1,14 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x01-react_intro",
-    "\\0x01-react_intro\\task_4\\dashboard",
-    "\\0x01-react_intro\\task_5",
     "\\0x01-react_intro\\task_5\\dashboard",
     "\\0x01-react_intro\\task_5\\dashboard\\config",
     "\\0x01-react_intro\\task_5\\dashboard\\src",
     "\\0x01-react_intro\\task_5\\dashboard\\src\\utils"
   ],
-  "SelectedNode": "\\0x01-react_intro\\task_5\\dashboard\\src\\utils\\utils.js",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
