@@ -1,11 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x01-react_intro\\task_5\\dashboard",
-    "\\0x01-react_intro\\task_5\\dashboard\\config",
-    "\\0x01-react_intro\\task_5\\dashboard\\src",
-    "\\0x01-react_intro\\task_5\\dashboard\\src\\utils"
+    "\\0x01-react_intro\\task_4",
+    "\\0x01-react_intro\\task_4\\dashboard\\src",
+    "\\0x02-react_props",
+    "\\0x02-react_props\\task_0",
+    "\\0x02-react_props\\task_0\\dashboard",
+    "\\0x02-react_props\\task_0\\dashboard\\dist",
+    "\\0x02-react_props\\task_0\\dashboard\\src"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\0x02-react_props\\task_0\\dashboard\\package.json",
   "PreviewInSolutionExplorer": false
 }
