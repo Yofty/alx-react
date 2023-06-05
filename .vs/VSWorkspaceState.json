@@ -1,14 +1,18 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x01-react_intro\\task_4",
-    "\\0x01-react_intro\\task_4\\dashboard\\src",
     "\\0x02-react_props",
-    "\\0x02-react_props\\task_0",
     "\\0x02-react_props\\task_0\\dashboard",
-    "\\0x02-react_props\\task_0\\dashboard\\dist",
-    "\\0x02-react_props\\task_0\\dashboard\\src"
+    "\\0x02-react_props\\task_0\\dashboard\\src",
+    "\\0x02-react_props\\task_0\\dashboard\\src\\Login",
+    "\\0x02-react_props\\task_1\\dashboard",
+    "\\0x02-react_props\\task_1\\dashboard\\dist",
+    "\\0x02-react_props\\task_2",
+    "\\0x02-react_props\\task_2\\dashboard",
+    "\\0x02-react_props\\task_2\\dashboard\\src",
+    "\\0x02-react_props\\task_2\\dashboard\\src\\App",
+    "\\0x02-react_props\\task_2\\dashboard\\src\\Notifications"
   ],
-  "SelectedNode": "\\0x02-react_props\\task_0\\dashboard\\package.json",
+  "SelectedNode": "\\0x02-react_props\\task_2\\dashboard\\src\\Notifications\\Notifications.test.js",
   "PreviewInSolutionExplorer": false
 }

@@ -1,15 +1,16 @@
 .Notifications {
 	padding: 1em;
-	border: 2px dashed red;
+	border: 2px dotted red;
 	position: absolute;
 	top: 10px;
 	width: 95vw;
 }
 
-li[data="default"] {
+[data-notification-type="default"] {
 	color: blue;
 }
 
-li[data="urgent"] {
+[data-urgent],
+[data-notification-type="urgent"] {
 	color: red;
 }
