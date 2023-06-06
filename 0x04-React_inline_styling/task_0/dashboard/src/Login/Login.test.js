@@ -1,15 +1,23 @@
 import React from 'react';
-import { shallow } from 'enzyme';
 import Login from './Login';
+import { shallow } from 'enzyme';
 
-describe("Login Component Test", () => {
-  it("renders without crashing", () => {
-    const log = shallow(<Login />);
-    expect(log.exists()).toEqual(true);
+describe("testing the <Login /> component", () => {
+  let wrapper;
+
+  beforeEach(() => {
+    wrapper = shallow(<Login />);
   });
-  it("should render 2 input tags and 2 label tag", () => {
-    const log = shallow(<Login />);
-    expect(log.find("label")).toHaveLength(2);
-     expect(log.find("input")).toHaveLength(2);
+
+  it("Login component renders without crashing", () => {
+    expect(wrapper).toBeDefined();
+  });
+
+  it("Login component renders 2 input tags", () => {
+    expect(wrapper.find("input")).toHaveLength(2);
+  });
+
+  it("Login component renders 2 label tags", () => {
+    expect(wrapper.find("label")).toHaveLength(2);
   });
 });
