@@ -1,18 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x02-react_props",
-    "\\0x02-react_props\\task_0\\dashboard",
-    "\\0x02-react_props\\task_0\\dashboard\\src",
-    "\\0x02-react_props\\task_0\\dashboard\\src\\Login",
-    "\\0x02-react_props\\task_1\\dashboard",
-    "\\0x02-react_props\\task_1\\dashboard\\dist",
-    "\\0x02-react_props\\task_2",
-    "\\0x02-react_props\\task_2\\dashboard",
-    "\\0x02-react_props\\task_2\\dashboard\\src",
-    "\\0x02-react_props\\task_2\\dashboard\\src\\App",
-    "\\0x02-react_props\\task_2\\dashboard\\src\\Notifications"
+    "\\0x04-React_inline_styling",
+    "\\0x04-React_inline_styling\\task_1\\dashboard\\src",
+    "\\0x04-React_inline_styling\\task_1\\dashboard\\src\\HOC",
+    "\\0x04-React_inline_styling\\task_2\\dashboard",
+    "\\0x04-React_inline_styling\\task_2\\dashboard\\src",
+    "\\0x04-React_inline_styling\\task_2\\dashboard\\src\\CourseList",
+    "\\0x04-React_inline_styling\\task_2\\dashboard\\src\\Notifications",
+    "\\0x04-React_inline_styling\\task_3",
+    "\\0x04-React_inline_styling\\task_3\\dashboard",
+    "\\0x04-React_inline_styling\\task_3\\dashboard\\src"
   ],
-  "SelectedNode": "\\0x02-react_props\\task_2\\dashboard\\src\\Notifications\\Notifications.test.js",
+  "SelectedNode": "\\0x04-React_inline_styling\\task_3\\dashboard\\package.json",
   "PreviewInSolutionExplorer": false
 }
