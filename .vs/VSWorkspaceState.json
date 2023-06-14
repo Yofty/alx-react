@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x04-React_inline_styling",
-    "\\0x04-React_inline_styling\\task_1\\dashboard\\src",
-    "\\0x04-React_inline_styling\\task_1\\dashboard\\src\\HOC",
-    "\\0x04-React_inline_styling\\task_2\\dashboard",
-    "\\0x04-React_inline_styling\\task_2\\dashboard\\src",
-    "\\0x04-React_inline_styling\\task_2\\dashboard\\src\\CourseList",
-    "\\0x04-React_inline_styling\\task_2\\dashboard\\src\\Notifications",
-    "\\0x04-React_inline_styling\\task_3",
-    "\\0x04-React_inline_styling\\task_3\\dashboard",
-    "\\0x04-React_inline_styling\\task_3\\dashboard\\src"
+    "\\0x05-react_state",
+    "\\0x05-react_state\\task_3\\dashboard",
+    "\\0x05-react_state\\task_3\\dashboard\\src",
+    "\\0x05-react_state\\task_3\\dashboard\\src\\App",
+    "\\0x05-react_state\\task_3\\dashboard\\src\\Notifications",
+    "\\0x05-react_state\\task_4",
+    "\\0x05-react_state\\task_4\\dashboard",
+    "\\0x05-react_state\\task_4\\dashboard\\src",
+    "\\0x05-react_state\\task_4\\dashboard\\src\\CourseList"
   ],
-  "SelectedNode": "\\0x04-React_inline_styling\\task_3\\dashboard\\package.json",
+  "SelectedNode": "\\0x05-react_state\\task_4\\dashboard\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
