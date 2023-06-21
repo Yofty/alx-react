@@ -1,16 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x05-react_state",
-    "\\0x05-react_state\\task_3\\dashboard",
-    "\\0x05-react_state\\task_3\\dashboard\\src",
-    "\\0x05-react_state\\task_3\\dashboard\\src\\App",
-    "\\0x05-react_state\\task_3\\dashboard\\src\\Notifications",
-    "\\0x05-react_state\\task_4",
-    "\\0x05-react_state\\task_4\\dashboard",
-    "\\0x05-react_state\\task_4\\dashboard\\src",
-    "\\0x05-react_state\\task_4\\dashboard\\src\\CourseList"
+    "\\0x07-react_redux_action_creator_normalizr",
+    "\\0x07-react_redux_action_creator_normalizr\\task_5\\dashboard",
+    "\\0x07-react_redux_action_creator_normalizr\\task_5\\dashboard\\src",
+    "\\0x07-react_redux_action_creator_normalizr\\task_5\\dashboard\\src\\actions",
+    "\\0x07-react_redux_action_creator_normalizr\\task_6\\dashboard",
+    "\\0x07-react_redux_action_creator_normalizr\\task_6\\dashboard\\src\\actions",
+    "\\0x07-react_redux_action_creator_normalizr\\task_7",
+    "\\0x07-react_redux_action_creator_normalizr\\task_7\\dashboard",
+    "\\0x07-react_redux_action_creator_normalizr\\task_7\\dashboard\\src",
+    "\\0x07-react_redux_action_creator_normalizr\\task_7\\dashboard\\src\\actions"
   ],
-  "SelectedNode": "\\0x05-react_state\\task_4\\dashboard\\.gitignore",
+  "SelectedNode": "\\0x07-react_redux_action_creator_normalizr\\task_7\\dashboard\\src\\actions\\uiActionCreators.test.js",
   "PreviewInSolutionExplorer": false
 }
