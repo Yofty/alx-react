@@ -1,17 +1,18 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x07-react_redux_action_creator_normalizr",
-    "\\0x07-react_redux_action_creator_normalizr\\task_5\\dashboard",
-    "\\0x07-react_redux_action_creator_normalizr\\task_5\\dashboard\\src",
-    "\\0x07-react_redux_action_creator_normalizr\\task_5\\dashboard\\src\\actions",
-    "\\0x07-react_redux_action_creator_normalizr\\task_6\\dashboard",
-    "\\0x07-react_redux_action_creator_normalizr\\task_6\\dashboard\\src\\actions",
-    "\\0x07-react_redux_action_creator_normalizr\\task_7",
-    "\\0x07-react_redux_action_creator_normalizr\\task_7\\dashboard",
-    "\\0x07-react_redux_action_creator_normalizr\\task_7\\dashboard\\src",
-    "\\0x07-react_redux_action_creator_normalizr\\task_7\\dashboard\\src\\actions"
+    "\\0x08-react_redux_reducer_selector",
+    "\\0x08-react_redux_reducer_selector\\task_3\\dashboard",
+    "\\0x08-react_redux_reducer_selector\\task_3\\dashboard\\src",
+    "\\0x08-react_redux_reducer_selector\\task_3\\dashboard\\src\\actions",
+    "\\0x08-react_redux_reducer_selector\\task_4\\dashboard",
+    "\\0x08-react_redux_reducer_selector\\task_4\\dashboard\\src",
+    "\\0x08-react_redux_reducer_selector\\task_4\\dashboard\\src\\schema",
+    "\\0x08-react_redux_reducer_selector\\task_5",
+    "\\0x08-react_redux_reducer_selector\\task_5\\dashboard",
+    "\\0x08-react_redux_reducer_selector\\task_5\\dashboard\\src",
+    "\\0x08-react_redux_reducer_selector\\task_5\\dashboard\\src\\selectors"
   ],
-  "SelectedNode": "\\0x07-react_redux_action_creator_normalizr\\task_7\\dashboard\\src\\actions\\uiActionCreators.test.js",
+  "SelectedNode": "\\0x08-react_redux_reducer_selector\\task_5\\dashboard\\src\\selectors\\notificationSelector.test.js",
   "PreviewInSolutionExplorer": false
 }
