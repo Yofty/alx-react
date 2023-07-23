@@ -1,18 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x08-react_redux_reducer_selector",
-    "\\0x08-react_redux_reducer_selector\\task_3\\dashboard",
-    "\\0x08-react_redux_reducer_selector\\task_3\\dashboard\\src",
-    "\\0x08-react_redux_reducer_selector\\task_3\\dashboard\\src\\actions",
-    "\\0x08-react_redux_reducer_selector\\task_4\\dashboard",
-    "\\0x08-react_redux_reducer_selector\\task_4\\dashboard\\src",
-    "\\0x08-react_redux_reducer_selector\\task_4\\dashboard\\src\\schema",
-    "\\0x08-react_redux_reducer_selector\\task_5",
-    "\\0x08-react_redux_reducer_selector\\task_5\\dashboard",
-    "\\0x08-react_redux_reducer_selector\\task_5\\dashboard\\src",
-    "\\0x08-react_redux_reducer_selector\\task_5\\dashboard\\src\\selectors"
+    "\\0x09-react_redux_connectors_and_providers\\task_9\\dashboard",
+    "\\0x09-react_redux_connectors_and_providers\\task_9\\dashboard\\src",
+    "\\0x09-react_redux_connectors_and_providers\\task_9\\dashboard\\src\\Notifications"
   ],
-  "SelectedNode": "\\0x08-react_redux_reducer_selector\\task_5\\dashboard\\src\\selectors\\notificationSelector.test.js",
+  "SelectedNode": "\\0x09-react_redux_connectors_and_providers",
   "PreviewInSolutionExplorer": false
 }
